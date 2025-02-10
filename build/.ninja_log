@@ -1,0 +1,20 @@
+# ninja log v6
+1	1350	1739202211608153574	src/CMakeFiles/paho-mqttpp3-shared.dir/connect_options.cpp.o	56c9afdbcf079f57
+1	2246	1739202211608153574	src/CMakeFiles/paho-mqttpp3-shared.dir/client.cpp.o	b71cf5261dbea254
+4	1592	1739202211611153601	src/CMakeFiles/paho-mqttpp3-shared.dir/token.cpp.o	abd0bf87615410a2
+2	1090	1739202211609153583	src/CMakeFiles/paho-mqttpp3-shared.dir/create_options.cpp.o	e07bc79d85ae2202
+3	782	1739202211610153592	src/CMakeFiles/paho-mqttpp3-shared.dir/reason_code.cpp.o	deaffe09a5c2e3ce
+2	950	1739202211609153583	src/CMakeFiles/paho-mqttpp3-shared.dir/message.cpp.o	f3d6297660162231
+3	1278	1739202211610153592	src/CMakeFiles/paho-mqttpp3-shared.dir/ssl_options.cpp.o	249658598b3b0491
+2447	2455	1739202214054175901	src/libpaho-mqttpp3.so	a1e8d5f98a9034dd
+2246	2447	1739202213853174066	src/libpaho-mqttpp3.so.1.5.0	f832fbbb0d65af15
+3	1199	1739202211610153592	src/CMakeFiles/paho-mqttpp3-shared.dir/response_options.cpp.o	474fec3705f4bfbd
+3	1028	1739202211610153592	src/CMakeFiles/paho-mqttpp3-shared.dir/server_response.cpp.o	fd05e90ed5297682
+3	1057	1739202211610153592	src/CMakeFiles/paho-mqttpp3-shared.dir/string_collection.cpp.o	f24ada0f65578faf
+4	1267	1739202211611153601	src/CMakeFiles/paho-mqttpp3-shared.dir/will_options.cpp.o	1e6f529c5fbeccd2
+2	1078	1739202211609153583	src/CMakeFiles/paho-mqttpp3-shared.dir/properties.cpp.o	4e16e36bbda7ac7d
+1	2245	1739202211608153574	src/CMakeFiles/paho-mqttpp3-shared.dir/async_client.cpp.o	eb729fb9abbae673
+2447	2455	1739202214054175901	src/libpaho-mqttpp3.so.1	a1e8d5f98a9034dd
+2	1039	1739202211609153583	src/CMakeFiles/paho-mqttpp3-shared.dir/disconnect_options.cpp.o	ee41763c81729100
+4	1610	1739202211611153601	src/CMakeFiles/paho-mqttpp3-shared.dir/topic.cpp.o	a456422660b8a30
+2	967	1739202211609153583	src/CMakeFiles/paho-mqttpp3-shared.dir/iclient_persistence.cpp.o	79b63b4499e649f2

@@ -1,0 +1,68 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib64/cmake/PahoMqttCpp",
+			"exportName" : "PahoMqttCpp",
+			"exportTargets" : 
+			[
+				{
+					"id" : "paho-mqttpp3-shared::@145eef247bfb46b6828c",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"cmake/CMakeFiles/Export/972ceff303acffe8a053e2fc3d96758a/PahoMqttCppTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib64/cmake/PahoMqttCpp",
+			"paths" : 
+			[
+				"/home/tmx37/Code/New_test_Mqtt_C++/build/cmake/PahoMqttCppConfig.cmake",
+				"/home/tmx37/Code/New_test_Mqtt_C++/build/cmake/PahoMqttCppConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "cmake",
+		"source" : "cmake"
+	}
+}
